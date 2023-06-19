@@ -9,5 +9,3 @@ print(first_digit)
 print(second_digit)
 
 result = int(first_digit) + int(second_digit)
-
-print(result)

@@ -9,7 +9,7 @@ if height >= 120:
     elif age <= 18:
         print("PLease pay 7 dollars for a ticket")
     elif age == 90:
-        print("u fucking old man :()")
+        print("u fucking old man :(")
     else:
         print("Please py 100 dollars for a ticket!")
 else:
